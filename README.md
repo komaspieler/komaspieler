@@ -1,7 +1,5 @@
 ### Ahoy 👋
 
-<img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="260">
-
 I'm Thomas, your friendly neighborhood tech enthusiast. If I'm not tinkering with an electronics project and doing
 some low-level SoC-programming, I'm likely to venture into some microservice and/or cloud deployment project.
 I firmly believe the public cloud to be the next logical step in economic compute resource utilization and eagerly
@@ -10,7 +8,7 @@ take on the challenges that come with this step - especially focusing on everyth
 #### 📫 How to reach me
 In English or German...
 
-- [Mail](mailto:thomas.hoffmann@kreuzwerker.de)
+- [Mail](mailto:thomas.hoffmann@sevdesk.de)
 
 #### 🛠 Languages and Tools
 <p>
